@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-this is a issue code
-=======
-this is only for kids
->>>>>>> 57309c2907edb0eb11573d2db0d0ca078c471811
+this is for kids 
+
+
+
+
